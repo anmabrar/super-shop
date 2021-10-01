@@ -7,4 +7,6 @@ Used:
 - Bootstrap 4
 
 
-Abu Naser Md Abrar\n ID: 17101013 \nCSE 321
+Abu Naser Md Abrar
+ID: 17101013 
+CSE 321
